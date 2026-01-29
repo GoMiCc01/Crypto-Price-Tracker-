@@ -1,0 +1,37 @@
+# Bytecode / caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+
+# IDEs and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Runtime data and logs
+prices.db
+remember.txt
+*.log
+*.sqlite3
+*.db
+
+# Test / coverage / linters
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Packaging / build
+dist/
+build/
+*.egg-info/
+
+# Misc
+.cache/
